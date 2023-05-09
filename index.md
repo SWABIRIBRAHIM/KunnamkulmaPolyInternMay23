@@ -33,7 +33,7 @@
 26. [CHRISTIN VARGHESE](https://github.com/Christin-chris/chris/blob/main/property2.md)
 27. JOEL JOHNSON P
 28. KRISHNAPRASAD K
-29. MUHAMMED SWABIR P I
+29. [MUHAMMED SWABIR P I](https://github.com/SWABIRIBRAHIM/MUHAMMEDSWABIR/blob/main/internship.md)
 
 ## Trainers
 1. Er. Jinesh K J
